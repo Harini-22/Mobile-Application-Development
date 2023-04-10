@@ -25,12 +25,12 @@
 # 2D diagram
 ![image](https://user-images.githubusercontent.com/102860861/230944218-efeef6fc-7b89-4c08-bcfc-febef2a47b88.png)
 
-#Database Connectivity
+# Database Connectivity
 ![image](https://user-images.githubusercontent.com/102860861/230944472-7ae93295-f26f-4ea8-ad21-95490de5d6b3.png)
 ![image](https://user-images.githubusercontent.com/102860861/230945369-22677342-3472-427d-bfb5-9f9b1a8fd375.png)
 ![image](https://user-images.githubusercontent.com/102860861/230945464-1fcfd686-d6e3-4237-a8b4-ad9d8928a29a.png)
 
-#Email
+# Email
 ![image](https://user-images.githubusercontent.com/102860861/230945620-3e066721-207b-470e-bbc2-2ba6e0d84854.png)
 ![image](https://user-images.githubusercontent.com/102860861/230945705-0f807a62-3aa0-4173-8f4c-29a8414e8825.png)
 
