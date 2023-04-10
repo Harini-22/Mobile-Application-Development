@@ -48,6 +48,9 @@ public class MainActivity extends AppCompatActivity {
             paint.setColor(Color.GREEN);
             canvas.drawRect(100, 500, 500, 1000, paint);
 
+            paint.setColor(Color.MAGENTA);
+            canvas.drawCircle(300,750,150,paint);
+
             paint.setAntiAlias(false);
             paint.setColor(Color.YELLOW);
             canvas.drawRect(500, 500, 1000, 1000, paint);
